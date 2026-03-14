@@ -3,7 +3,15 @@ Project Overview
 
 This project implements a 4-bit Arithmetic Logic Unit (ALU) using Verilog HDL. The ALU performs multiple arithmetic and logical operations based on control signals and is verified using a simulation testbench.
 
-The design is suitable for FPGA simulation in Xilinx Vivado.
+The design is suitable for FPGA simulation in Xilinx Vivado.  
+
+## Applications
+- Core computation unit in microprocessors and CPUs
+- Used in embedded systems and digital controllers
+- Fundamental component in FPGA-based digital design
+- Used for arithmetic and logical operations in processors
+- Educational model for studying computer architecture
+
 
 ## Features  
 The ALU supports the following operations:
